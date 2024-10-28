@@ -23,10 +23,49 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
+![image](https://github.com/user-attachments/assets/1beff205-b78b-4bc8-977d-d2161ef917a1)
+
+The command sudo setoolkit in the prompt gives menu with set prompt. Select menu1 for Social Engineering Attacks:
+
+It displays the following menu and select 2 for Website Attack Vectors:
+
+![image](https://github.com/user-attachments/assets/c5a80b34-0083-4b03-b6be-4eeb7085d0ab)
 
 
+The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
+
+![image](https://github.com/user-attachments/assets/33536563-d629-4b45-a5ed-9e64478811dd)
 
 
+The Credential Harvester Attack Method displays the following menu. In this menu1 for Web Templates is selected:
+
+![image](https://github.com/user-attachments/assets/ccf416f9-16b7-4a6a-ad41-e7b7b5612f66)
+
+It shows the following screen in which the ip address of the attacker need to be given which is the default value:
+
+![image](https://github.com/user-attachments/assets/d6d7f3b5-9d24-4237-bc23-d67e9578db1a)
+
+
+It shows the following screen in which the option Google can be selected:
+
+![Screenshot 2024-10-28 110540](https://github.com/user-attachments/assets/4f49046a-93df-46be-9b94-e74d63cb4a20)
+
+![image](https://github.com/user-attachments/assets/b9f12a6a-30c1-421c-9e87-3444d43fa222)
+
+
+SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
+
+![image](https://github.com/user-attachments/assets/97531842-8cf9-4e06-8d9f-f590fd2c67ae)
+
+
+In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
+
+![image](https://github.com/user-attachments/assets/781ef8b3-a9a4-4857-ae4a-6ddbbf726075)
+
+
+SET logs the information regarding the Google credentials:
+
+![image](https://github.com/user-attachments/assets/b5193c3a-8522-4667-8ea5-8a6c0706a7df)
 
 
 ## RESULT:
