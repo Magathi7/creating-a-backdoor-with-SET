@@ -48,19 +48,17 @@ It shows the following screen in which the ip address of the attacker need to be
 
 It shows the following screen in which the option Google can be selected:
 
-![Screenshot 2024-10-28 110540](https://github.com/user-attachments/assets/4f49046a-93df-46be-9b94-e74d63cb4a20)
-
-![image](https://github.com/user-attachments/assets/b9f12a6a-30c1-421c-9e87-3444d43fa222)
+![image](https://github.com/user-attachments/assets/e78c9174-d255-4ccd-8288-72d839fdae20)
 
 
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
 
-![image](https://github.com/user-attachments/assets/97531842-8cf9-4e06-8d9f-f590fd2c67ae)
+![image](https://github.com/user-attachments/assets/b7d65028-f82f-4e2c-b973-50c47555eb16)
 
 
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
 
-![image](https://github.com/user-attachments/assets/781ef8b3-a9a4-4857-ae4a-6ddbbf726075)
+![image](https://github.com/user-attachments/assets/97531842-8cf9-4e06-8d9f-f590fd2c67ae)
 
 
 SET logs the information regarding the Google credentials:
